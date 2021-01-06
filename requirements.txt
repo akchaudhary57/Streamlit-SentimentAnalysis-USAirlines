@@ -336,3 +336,4 @@ yfinance==0.1.55
 zc.lockfile==2.0
 zict==2.0.0
 zipp==3.1.0
+plotly-express==0.4.1
